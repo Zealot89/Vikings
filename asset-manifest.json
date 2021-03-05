@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "./static/css/main.26769658.chunk.css",
-    "main.js": "./static/js/main.dd724d0d.chunk.js",
-    "main.js.map": "./static/js/main.dd724d0d.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.1f0702c4.js",
-    "runtime-main.js.map": "./static/js/runtime-main.1f0702c4.js.map",
-    "static/js/2.32574d31.chunk.js": "./static/js/2.32574d31.chunk.js",
-    "static/js/2.32574d31.chunk.js.map": "./static/js/2.32574d31.chunk.js.map",
-    "static/js/3.4e8a7da8.chunk.js": "./static/js/3.4e8a7da8.chunk.js",
-    "static/js/3.4e8a7da8.chunk.js.map": "./static/js/3.4e8a7da8.chunk.js.map",
-    "index.html": "./index.html",
-    "static/css/main.26769658.chunk.css.map": "./static/css/main.26769658.chunk.css.map",
-    "static/js/2.32574d31.chunk.js.LICENSE.txt": "./static/js/2.32574d31.chunk.js.LICENSE.txt",
-    "static/media/index.css": "./static/media/thumb-1920-691823.e0ab0c79.jpg",
-    "static/media/Bjorn_Vikings.367a4d4a.jpg": "./static/media/Bjorn_Vikings.367a4d4a.jpg",
-    "static/media/Rectangle 16.ae9d4e30.jpg": "./static/media/Rectangle 16.ae9d4e30.jpg",
-    "static/media/Rectangle 9.6ebfe7be.png": "./static/media/Rectangle 9.6ebfe7be.png",
-    "static/media/vikings-vikingi-katheryn-5219.833990c2.jpg": "./static/media/vikings-vikingi-katheryn-5219.833990c2.jpg",
-    "static/media/лого1.f6f41d2f.png": "./static/media/лого1.f6f41d2f.png"
+    "main.css": "/Vikings/static/css/main.c2d39089.chunk.css",
+    "main.js": "/Vikings/static/js/main.dd724d0d.chunk.js",
+    "main.js.map": "/Vikings/static/js/main.dd724d0d.chunk.js.map",
+    "runtime-main.js": "/Vikings/static/js/runtime-main.25705a0e.js",
+    "runtime-main.js.map": "/Vikings/static/js/runtime-main.25705a0e.js.map",
+    "static/js/2.32574d31.chunk.js": "/Vikings/static/js/2.32574d31.chunk.js",
+    "static/js/2.32574d31.chunk.js.map": "/Vikings/static/js/2.32574d31.chunk.js.map",
+    "static/js/3.4e8a7da8.chunk.js": "/Vikings/static/js/3.4e8a7da8.chunk.js",
+    "static/js/3.4e8a7da8.chunk.js.map": "/Vikings/static/js/3.4e8a7da8.chunk.js.map",
+    "index.html": "/Vikings/index.html",
+    "static/css/main.c2d39089.chunk.css.map": "/Vikings/static/css/main.c2d39089.chunk.css.map",
+    "static/js/2.32574d31.chunk.js.LICENSE.txt": "/Vikings/static/js/2.32574d31.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Vikings/static/media/thumb-1920-691823.e0ab0c79.jpg",
+    "static/media/Bjorn_Vikings.367a4d4a.jpg": "/Vikings/static/media/Bjorn_Vikings.367a4d4a.jpg",
+    "static/media/Rectangle 16.ae9d4e30.jpg": "/Vikings/static/media/Rectangle 16.ae9d4e30.jpg",
+    "static/media/Rectangle 9.6ebfe7be.png": "/Vikings/static/media/Rectangle 9.6ebfe7be.png",
+    "static/media/vikings-vikingi-katheryn-5219.833990c2.jpg": "/Vikings/static/media/vikings-vikingi-katheryn-5219.833990c2.jpg",
+    "static/media/лого1.f6f41d2f.png": "/Vikings/static/media/лого1.f6f41d2f.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.1f0702c4.js",
+    "static/js/runtime-main.25705a0e.js",
     "static/js/2.32574d31.chunk.js",
-    "static/css/main.26769658.chunk.css",
+    "static/css/main.c2d39089.chunk.css",
     "static/js/main.dd724d0d.chunk.js"
   ]
 }
