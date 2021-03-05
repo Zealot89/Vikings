@@ -1,0 +1,10 @@
+.about__wrapper {
+  width: 1200px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 21px;
+}

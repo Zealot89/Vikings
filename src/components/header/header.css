@@ -1,0 +1,14 @@
+@import url("./sesons-nav/seasons-nav.css");
+@import url("./logo/logo.css");
+
+.header {
+  width: 100%;
+  height: 1030px;
+  background-image: url("../../images/2950659.jpg");
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  box-shadow: 0 -45px 40px rgba(14, 14, 14, 1) inset;
+}

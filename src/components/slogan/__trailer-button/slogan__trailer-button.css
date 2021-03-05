@@ -1,0 +1,9 @@
+.slogan__trailer-button {
+  width: 100px;
+  height: 100px;
+  background-image: url("../../../images/youtube\ 1\ 1.png");
+  background-size: cover;
+  background-color: transparent;
+  border-radius: 50%;
+  outline: none;
+}

@@ -1,0 +1,16 @@
+@import url("./__conteiner/slogan__container.css");
+@import url("./__first-image/slogan__first-image.css");
+@import url("./__second-image/slogan__second-image.css");
+@import url("./__subtitle/slogan__subtitle.css");
+@import url("./__trailer-button/slogan__trailer-button.css");
+@import url("./__trailer-container/slogan__trailer-container.css");
+.slogan {
+  width: 100%;
+  height: 1080px;
+  background-image: url("../../images/thumb-1920-691823.jpg");
+  padding-left: 960px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}

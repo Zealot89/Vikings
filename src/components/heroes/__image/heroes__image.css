@@ -1,0 +1,5 @@
+.heroes__image {
+  min-width: 775px;
+  height: 450px;
+  object-fit: cover;
+}

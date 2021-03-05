@@ -1,0 +1,5 @@
+.heroes__slide-container {
+  display: flex;
+  width: 1239px;
+  margin-bottom: 100px;
+}

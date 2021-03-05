@@ -1,0 +1,9 @@
+.seasonHeader__logo {
+  width: 154px;
+  height: 56px;
+  object-fit: cover;
+  margin-left: -288px;
+}
+.seasonHeader__logo:hover {
+  cursor: pointer;
+}

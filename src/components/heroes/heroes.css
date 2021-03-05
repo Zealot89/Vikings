@@ -1,0 +1,19 @@
+@import url("./__title/heroes__title.css");
+@import url("./__slide-container/heroes__slide-container.css");
+@import url("./__subtitle/heroes__subtitle.css");
+@import url("./__text-container/heroes__text-container.css");
+@import url("./__text/heroes__text.css");
+@import url("./__image/heroes__image.css");
+@import url("./__next/heroes__next.css");
+@import url("./__prev/heroes__prev.css");
+@import url("./__slide-container/_active/heroes__slide-container_active.css");
+@import url("./__slide-container/_disabled/heroes__slide-container_disabled.css");
+
+.heroes {
+  width: 100%;
+  min-height: 792px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

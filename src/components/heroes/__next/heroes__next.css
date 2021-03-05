@@ -1,0 +1,12 @@
+.heroes__next {
+  cursor: pointer;
+  position: absolute;
+  width: 36px;
+  height: 25px;
+  border: none;
+  background-color: transparent;
+  outline: none;
+  top: 436px;
+  left: 55%;
+  background-image: url("../../../images/Монтажная область 1 1.png");
+}

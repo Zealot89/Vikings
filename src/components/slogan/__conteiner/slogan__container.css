@@ -1,0 +1,5 @@
+.slogan__container {
+  height: 168px;
+  display: flex;
+  flex-direction: column;
+}

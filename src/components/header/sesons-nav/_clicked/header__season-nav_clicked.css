@@ -1,0 +1,8 @@
+.header__season-nav_clicked {
+  color: #85ccdc;
+}
+.header__season-nav_clicked::after {
+  width: 100%;
+  height: 10px;
+  border: 1px #85ccdc solid;
+}
